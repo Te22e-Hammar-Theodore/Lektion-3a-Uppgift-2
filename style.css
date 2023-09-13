@@ -11,3 +11,8 @@ body {
   width: 100%;
   border: 5px solid black;
 }
+
+.huvudrubrik h1{
+  background-color: darkgrey;
+  color: wheat;
+}
