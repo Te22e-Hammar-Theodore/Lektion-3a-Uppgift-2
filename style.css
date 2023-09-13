@@ -23,3 +23,11 @@ body {
   border: 3px solid white;
   list-style: square;
 }
+.Julafton {
+  background-color: white;
+  color: red;
+}
+.Nyårsdagen {
+  background-color: darkgoldenrod;
+  color: white;
+}
