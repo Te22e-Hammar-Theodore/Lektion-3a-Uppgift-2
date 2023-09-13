@@ -12,7 +12,14 @@ body {
   border: 5px solid black;
 }
 
-.huvudrubrik h1{
+.huvudrubrik h1 {
   background-color: darkgrey;
   color: wheat;
+}
+
+.Lediga_dagar {
+  padding: 12px 25px;
+  background-color: lightgrey;
+  border: 3px solid white;
+  list-style: square;
 }
