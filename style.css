@@ -23,11 +23,36 @@ body {
   border: 3px solid white;
   list-style: square;
 }
+
 .Julafton {
   background-color: white;
   color: red;
 }
+
 .Nyårsdagen {
   background-color: darkgoldenrod;
   color: white;
+}
+
+.kalender {
+  text-align: center;
+  padding: 6px;
+  border: 6px solid black;
+}
+
+.kalender * {
+  border: 2px solid red;
+  border-collapse: collapse;
+}
+
+.kalender th {
+  background-color: darkgrey;
+}
+
+.kalender td {
+  background-color: lightgrey;
+}
+
+.kalender .röda-dagar {
+  color: darkred;
 }
